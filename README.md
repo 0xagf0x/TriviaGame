@@ -1,2 +1,0 @@
-# TriviaGame
-A trivia game

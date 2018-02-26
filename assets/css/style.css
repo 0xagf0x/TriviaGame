@@ -1,0 +1,40 @@
+.jumbotron {
+    text-align: center;
+    padding: 0.2em 0.6em;
+    opacity: .7;
+    color: black;
+    background-color: tan;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+.btn {
+    color: yellow;
+    border: 15px solid black;
+    text-align: center;
+    border-radius: 10px;
+    background-color: black;
+    font-size: 12pt;
+}
+
+#startGame{
+    color: white;
+}
+
+
+.answer:hover {
+    background: white;
+}
+
+body {
+    background-color: tan;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: black;
+    /*text-shadow: 3px 3px black;*/
+    text-align: center;
+}
